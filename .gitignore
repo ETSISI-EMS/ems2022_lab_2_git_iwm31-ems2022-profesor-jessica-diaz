@@ -14,7 +14,11 @@ Thumbs.db
 build/
 target/
 bin/
+sandbox/
 dependency-reduced-pom.xml
+
+# VS Code File
+.vscode/
 
 # Eclipse Project Files
 

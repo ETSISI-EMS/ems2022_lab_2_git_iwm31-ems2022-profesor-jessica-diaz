@@ -1,19 +1,20 @@
 html,body {
     height:100%;
-    background:white;
+    background:#33a3ff;
     }
     header {
     display:block;
-    background:#d7e0e9;
+    background:#ab95b8;
     padding:10px 0px;
     }
     section {
     width: 79%;
-    float: left;
+    float: center;
     overflow: auto;
     padding-bottom: 60px;
     padding-top:30px;
     color: black;
+    background:#2b6e9e;
     }
     footer {
     position: relative;

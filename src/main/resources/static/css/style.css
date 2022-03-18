@@ -9,11 +9,12 @@ html,body {
     }
     section {
     width: 79%;
-    float: left;
+    float: center;
     overflow: auto;
     padding-bottom: 60px;
     padding-top:30px;
     color: black;
+    background:#2b6e9e;
     }
     footer {
     position: relative;
